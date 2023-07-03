@@ -75,7 +75,7 @@ This is the first project of the math magicians rep application. I will set up t
 - Used correct flow GitFlow.
 - Documentation the project in a professional way on README file.
 - First, make sure I have [Node.js](https://nodejs.org/en/) installed on my local machine
-- create a React application is using [Vite](https://vitejs.dev/)
+- The easiest way to create a React application is using [Create React App](https://create-react-app.dev/)
 - The application should run in the browser without errors
 #### Project 2: Components.
 In this project, I should continue with the development of the math magicians rep app. I will develop a React component that will hold the core functionality: a calculator.
