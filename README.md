@@ -1,16 +1,12 @@
 # math-magicians-rep
 "math magicians rep" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:  Make simple calculations and Read a random math-related quote.
 
-<!-- <a name="readme-top">The leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service (https://www.notion.so/microverse/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3).</a> -->
-
-<h1>math magicians rep</h1>
-
 <!-- TABLE OF CONTENTS -->
 # 📗 Table of Contents
 
 - [math-magicians-rep](#math-magicians-rep)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 math magicians rep](#-math-magicians-rep)
+- [📖 About Project](#-about-project)
     - [How to build the "math magicians rep" application?](#how-to-build-the-math-magicians-rep-application)
     - [Projects list](#projects-list)
       - [Project 1: Setup.](#project-1-setup)
@@ -40,7 +36,7 @@
   - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
-# 📖 math magicians rep<a name="about-project"></a>
+# 📖 About Project<a name="about-project"></a>
 It is a Single Page App (SPA) that allows users to:  Make simple calculations and Read a random math-related quote.
 
 <!-- > Describe your project in 1 or 2 sentences. -->
@@ -229,7 +225,7 @@ In this exercise, you will deploy the math magicians rep app to Render.
 ## 🚀 Live Demo <a name=""></a>
 
 <!-- > Add a link to your deployed project. -->
-- Click the following url for [... Live Demo ...](https://math-magicians-rep-giuvx85y6-fickryiman.vercel.app/)
+<!-- - Click the following url for [... Live Demo ...](https://math-magicians-rep-giuvx85y6-fickryiman.vercel.app/) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
