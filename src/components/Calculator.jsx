@@ -1,7 +1,7 @@
 import './Calculator.css';
 import React, { useState } from 'react';
-import Hello from './Hello';
 import calculate from '../logic/calculate';
+import Quotes from './Quotes';
 
 function Calculator() {
   const [state, addState] = useState({
@@ -17,7 +17,6 @@ function Calculator() {
 
   return (
     <>
-      <Hello />
       <div className="calculator">
         <input type="text" className="calculator-screen" value={state.next || state.total || 0} disabled />
         <div className="calculator-keys">
@@ -42,6 +41,7 @@ function Calculator() {
           <button type="button" className="equal-sign" value="=" onClick={calc}>=</button>
         </div>
       </div>
+      <Quotes />
     </>
   );
 }
