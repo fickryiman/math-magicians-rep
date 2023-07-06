@@ -1,5 +1,5 @@
 import './Quotes.css';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 
 function Quotes() {
   const [quote, setQuote] = useState('');
@@ -33,7 +33,7 @@ function Quotes() {
     }
   };
 
-  useState(() => {
+  useEffect(() => {
     getQuotes();
   }, []);
 
