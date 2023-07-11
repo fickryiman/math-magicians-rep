@@ -1,7 +1,6 @@
 import './Calculator.css';
 import React, { useState } from 'react';
 import calculate from '../logic/calculate';
-import Quotes from './Quotes';
 
 function Calculator() {
   const [state, addState] = useState({
@@ -41,7 +40,6 @@ function Calculator() {
           <button type="button" className="equal-sign" value="=" onClick={calc}>=</button>
         </div>
       </div>
-      <Quotes />
     </>
   );
 }
