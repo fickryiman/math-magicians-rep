@@ -225,7 +225,7 @@ In this exercise, you will deploy the math magicians rep app to Render.
 ## 🚀 Live Demo <a name=""></a>
 
 <!-- > Add a link to your deployed project. -->
-<!-- - Click the following url for [... Live Demo ...](https://math-magicians-rep-giuvx85y6-fickryiman.vercel.app/) -->
+- Click the following url for [... Live Demo ...](https://math-magicians-zxw1.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
